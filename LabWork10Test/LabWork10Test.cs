@@ -1,5 +1,6 @@
 public class LabWork10Test
 {
+    //tests
     [Theory]
     [InlineData("")]
     [InlineData(null)]
