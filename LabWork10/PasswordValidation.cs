@@ -1,5 +1,6 @@
 ﻿public static class PasswordValidation
 {
+    //class
     public static bool ValidationPassword(string? password)
     {
         if (string.IsNullOrEmpty(password) || password.Length < 8)
